@@ -1,0 +1,66 @@
+{
+	"title": "My favorite places",
+	"Continent": [{
+			"_continent": "Asia",
+			"Country": [
+
+				{
+					"country": "Turkey",
+					"cities": ["Istanbul"],
+					"time of visit": "1"
+				}, {
+					"country": "Japan",
+					"cities": ["Tokyo", "Yokohama", "Narita"],
+					"time of visit": "2"
+				}
+
+			]
+		},
+
+		{
+			"_continent": "Oceania",
+			"Country": [
+
+				{
+					"country": "Australia",
+					"cities": ["Sydney",”Melbourne”],
+					"time of visit": "1"
+				}, {
+					"country": "New Zealand",
+					"cities": ["Auckland"],
+					"time of visit": "1"
+				}
+                       {          “_continent” : “America”, 
+   			“Country”: [ 
+				
+				{ 
+					"country" : "United States of America",
+"cities" : ["New York","Washington DC"],
+"time of visit" : "2" 
+}, {
+
+"country" : "Peru",
+"cities" : ["Cuzco","Lima","Puno"],
+"time of visit" : "1"
+}
+
+   		{        “_continent” : “Europe”, 
+		          “Country”: 
+[ { 
+
+"country" : "Denmark",
+"cities" : ["Copenhagen"]
+"time of visit" : "1" 
+
+}, {
+
+"country" : "Iceland",
+"cities" : ["Reykjavik","Vik"]
+"time of visit" : "1" }   	
+
+			]
+
+		}
+	]
+}
+
